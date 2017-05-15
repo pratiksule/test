@@ -1,4 +1,5 @@
+Adding a number.
 Adding a new change.
-Adding a new file.1
+Adding a new file 2.
 Adding a new file.
 Adding a new line to the file.
